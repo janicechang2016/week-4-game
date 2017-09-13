@@ -1,0 +1,47 @@
+body {
+  background-image: url("assets/images/background.png");
+  text-align: left;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.container {
+  background-color: #2892B2;
+}
+
+#title {
+  padding-top: 15px;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 60px;
+}
+.paragraph {
+  background-color: white;
+  margin-bottom: 10px;
+  font: 35px;
+  color: black;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.crystals {
+  text-align: center;
+}
+
+.click {
+  width:100px;
+  height:100px;
+}
+
+.start {
+  background-color: #283FB2;
+  color: #e1e8f0;
+  font: 25px;
+  margin-bottom: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+.addition {
+  font-size: 30px;
+}
+.total {
+  font-size: 30px;
+  
+}
